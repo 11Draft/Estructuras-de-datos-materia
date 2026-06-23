@@ -1,7 +1,16 @@
-# Contenidos del repositorio
-- [Division Enteros](https://github.com/11Draft/Estructuras-de-datos-materia/blob/main/DivisionEnteros.java)
-- [Fibonacci](https://github.com/11Draft/Estructuras-de-datos-materia/blob/main/Fibonacci.java)
-- [Fizzbuzz](https://github.com/11Draft/Estructuras-de-datos-materia/blob/main/FizzBuzz.java)
-- [Funciones](https://github.com/11Draft/Estructuras-de-datos-materia/blob/main/Funciones.java)
-- [Numeros Primos](https://github.com/11Draft/Estructuras-de-datos-materia/blob/main/NumerosPrimos.java)
-- [Reto 16](https://github.com/11Draft/Estructuras-de-datos-materia/blob/main/Reto16.java)
+# Repositorio de Estructuras de datos
+El siguiente repositorio tiene como objeto,  mostrar los diversos programas realizados a lo largo del cuatrimestre dentro de la materia Estructura de Datos.
+
+| Programa | Link |
+|----------|----------|
+| Circulo | [Abrir](./Cafeteria.java) |
+| DivisionEntera | [Abrir](./DivisionEnteros.java) |
+| Fibonacci | [Abrir](./Fibonacci.java) |
+| Funciones | [Abrir](./Funciones.java) |
+| Fila personas | [Abrir](./FilaPersonas.java) |
+| NumerosPrimos.java | [Abrir](./NumerosPrimos.java) |
+| Palindromo | [Abrir](./Palindromo.java) |
+| FizzBuzz | [Abrir](./FizzBuzz.java) |
+| Perro | [Abrir](./Perro.java) |
+| Pizzeria Bella Napoli | [Abrir](./PizzeriaBellaNapoli.java) |
+| Reto 16 | [Abrir](./Reto16.java) |
