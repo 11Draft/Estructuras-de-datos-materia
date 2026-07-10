@@ -20,6 +20,6 @@ El siguiente repositorio tiene como objeto,  mostrar los diversos programas real
 | Programa | Link |
 |----------|----------|
 | Lista Enlazada | [Abrir](./ListaEnlazada.java) |
-| Cuadro comparativo | [Abrir](./1._Cuadro_comparativo.md) |
+| Cuadro comparativo | [Cuadro comparativo](./Ejercicios%20Segundo%20Parcial/1.%20Cuadro%20comparativo.md) |
 
 
