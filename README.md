@@ -21,5 +21,6 @@ El siguiente repositorio tiene como objeto,  mostrar los diversos programas real
 |----------|----------|
 | Lista Enlazada | [Abrir](./ListaEnlazada.java) |
 | Cuadro comparativo | [Cuadro comparativo](./Ejercicios%20Segundo%20Parcial/1.%20Cuadro%20comparativo.md) |
+| Lista Doblemente Enlazada | [Abrir](./ListaEnlazadaDoble.java) |
 
 
