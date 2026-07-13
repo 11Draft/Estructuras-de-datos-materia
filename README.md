@@ -19,8 +19,8 @@ El siguiente repositorio tiene como objeto,  mostrar los diversos programas real
 ## 2do parcial
 | Programa | Link |
 |----------|----------|
-| Lista Enlazada | [Abrir](./ListaEnlazada.java) |
+| Lista Enlazada | [Abrir](./Ejercicios%20Segundo%20Parcial/ListaEnlazada.java) |
 | Cuadro comparativo | [Cuadro comparativo](./Ejercicios%20Segundo%20Parcial/1.%20Cuadro%20comparativo.md) |
-| Lista Doblemente Enlazada | [Abrir](./ListaEnlazadaDoble.java) |
+| Lista Doblemente Enlazada | [Abrir](./Ejercicios%20Segundo%20Parcial/ListaEnlazadaDoble.java) |
 
 
