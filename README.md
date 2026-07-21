@@ -22,5 +22,8 @@ El siguiente repositorio tiene como objeto,  mostrar los diversos programas real
 | Lista Enlazada | [Abrir](./Ejercicios%20Segundo%20Parcial/ListaEnlazada.java) |
 | Cuadro comparativo | [Cuadro comparativo](./Ejercicios%20Segundo%20Parcial/1.%20Cuadro%20comparativo.md) |
 | Lista Doblemente Enlazada | [Abrir](./Ejercicios%20Segundo%20Parcial/ListaEnlazadaDoble.java) |
+| Cursos: lista doblemente enlazada y enlazado simple | [Abrir](./Ejercicios%20Segundo%20Parcial/Curso_2.java) |
+| Recursividad con Fibonacci | [Abrir](./Ejercicios%20Segundo%20Parcial/FibonacciRescursivo.java) |
+
 
 
